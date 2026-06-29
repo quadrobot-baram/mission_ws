@@ -1,2 +1,2 @@
-# mission_ws
+# camera_ws
 ICROS mission
